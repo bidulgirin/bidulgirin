@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=안녕하세요%20비둘기린입니다&fontSize=40&fontColor=ffffff)
+
+
+- Tech stack
+ <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+- studying
+- Tools
+- Contact
