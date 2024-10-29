@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=hello%20이게뭐여&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=안녕하세요%20비둘기린입니다&fontSize=40)
