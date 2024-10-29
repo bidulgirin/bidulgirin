@@ -1,4 +1,4 @@
-## 안녕하세요
+## select * from my_brain where 개발_index = 1
 
 <!--
 **bidulgirin/bidulgirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
