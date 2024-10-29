@@ -1,4 +1,4 @@
-## select * from my_brain where 개발_index = 1
+
 
 <!--
 **bidulgirin/bidulgirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,21 +19,34 @@ Here are some ideas to get you started:
 
 
 Tech stack
- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
- <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+ 
+
 Studying
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<div>
+ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+</div>
+
 
 Tools
-<img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+<div>
+ <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+ <img src="https://img.shields.io/badge/adobe illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+ <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+</div>
+
+
 Contact
-<button onclick="window.location.href='tel:+1234567890'">Call Me</button>
-    <button onclick="window.location.href='mailto:your-email@example.com'">Email Me</button>
+<div>
+ <button onclick="window.location.href='tel:+1234567890'">Call Me</button>
+ <button onclick="window.location.href='mailto:your-email@example.com'">Email Me</button>
+</div>
+
