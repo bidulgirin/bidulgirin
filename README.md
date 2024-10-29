@@ -44,9 +44,3 @@ Tools
 </div>
 
 
-Contact
-<div>
- <button onclick="window.location.href='tel:+1234567890'">Call Me</button>
- <button onclick="window.location.href='mailto:your-email@example.com'">Email Me</button>
-</div>
-
