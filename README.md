@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=안녕하세요%20비둘기린입니다&fontSize=40&fontColor=ffffff)
 
-
+<style>
+  .svg_container{
+    background:black;
+</style>
 Tech stack
-<div style="background:black">
+<div class="svg_container">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
