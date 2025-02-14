@@ -14,14 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-        body {
-            background-color: black;
-            color: white; /* 글자 색상도 변경 */
-        }
-    </style>
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=안녕하세요%20비둘기린입니다&fontSize=40&fontColor=ffffff)
 
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=안녕하세요%20비둘기린입니다&fontSize=40&fontColor=ffffff)
+![background](https://via.placeholder.com/1500x1000/000000/ffffff?text=GitHub+Profile)
 Tech stack
 <div class="svg_container">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
