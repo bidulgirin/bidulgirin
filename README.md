@@ -32,7 +32,7 @@ Studying
 <div>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff" />
+
 </div>
 
 
@@ -41,6 +41,7 @@ Tools
  <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
  <img src="https://img.shields.io/badge/adobe illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
  <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff" />
 </div>
 
 
