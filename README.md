@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=🚀&fontSize=40&fontColor=010101)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=#000&height=300&section=header&text=🚀&fontSize=40&fontColor=010101)
 
 Tech stack
 <div class="svg_container">
